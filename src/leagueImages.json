@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "image": "images/aquaman.jpg",
+      "location": "The Sea"
+    },
+    {
+      "id": 2,
+      "image": "images/Batman.jpg",
+      "location": "Gotham"
+    },
+    {
+      "id": 3,
+      "image": "images/Cyborg.png",
+      "location": "The Watch Tower/Space"
+    },
+    {
+      "id": 4,
+      "image": "images/DoctorFate.png",
+      "location": "Tower of Fate"
+    },
+    {
+      "id": 5,
+      "image": "images/GreenArrow.jpg",
+      "location": "Star City"
+    },
+    {
+      "id": 6,
+      "image": "images/GreenLantern.jpg",
+      "location": "Space Sector 2814 "
+    },
+    {
+      "id": 7,
+      "name": "HawkGirl",
+      "image": "images/HawkGirl.jpg",
+      "occupation": "Cop",
+      "location": "Thanagar"
+    },
+    {
+      "id": 8,
+      "image": "images/HawkMan.jpg",
+      "location": "Thanagar"
+    },
+    {
+      "id": 9,
+      "image": "images/MartianManhunter.jpg",
+      "location": "California"
+    },
+    {
+      "id": 10,
+      "image": "images/Superman.png",
+      "location": "Metropolis"
+    },
+    {
+      "id": 11,
+      "image": "images/TheFlash.jpg",
+      "location": "Central City"
+    },
+    {
+      "id": 12,
+      "image": "images/WonderWoman.jpg",
+      "location": "Themescera"
+    }
+  ]
